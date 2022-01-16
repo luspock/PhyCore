@@ -1,2 +1,2 @@
-# PhyCore
+# Greyhound
 A RISC-V processor
